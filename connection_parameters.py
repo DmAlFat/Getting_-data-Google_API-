@@ -1,3 +1,4 @@
+# Enter database connection parameters
 DATABASE = "postgres"
 USER = "postgres"
 PASSWORD = "postgres"

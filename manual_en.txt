@@ -1,0 +1,9 @@
+1) To work with this project, you need to clone its repository from GitHub, open it in your development environment and install the following relations for it:
+sqlalchemy;
+gspread;
+pandas;
+oauth2client.
+2) Install PostgreSQL and remember the connection parameters (Database, Host, Port, User, Password).
+3) Open the connection_parameters.py file in the project and enter the appropriate parameters from step 2 to connect to the database.
+4) Run script main.py.
+5) Go to your database to check the result in the 'Getting_data' table.
